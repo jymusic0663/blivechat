@@ -1,0 +1,8 @@
+{
+  "name": "弹幕保存插件",
+  "version": "1.0.0",
+  "author": "user",
+  "description": "将弹幕信息保存到SQLite数据库和JSON文件中，每1000条弹幕保存一个文件",
+  "run": "python main.py",
+  "enabled": true
+}
